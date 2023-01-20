@@ -1,6 +1,4 @@
 # Application-Web-Design
-IV.	Look for a tutorial on the markup language “Markdown” in the README.md file and inside of it put your data (name, registration number, degree, semester), the data of your subject (name of the subject and the professor who teaches it), and a text describing what Markdown is used for. Save the changes.
-
 **Datos:**
 *   Nombre: Abigail Sosa 
 *   Matrícula: 2787700 
