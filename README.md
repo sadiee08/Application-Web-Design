@@ -1,12 +1,12 @@
 # Application-Web-Design
 **Datos:**
-*   Nombre: Abigail Sosa 
-*   Matrícula: 2787700 
-*   Carrera: IDS 
+*   Nombre: Abigail Sosa. 
+*   Matrícula: 2787700. 
+*   Carrera: IDS. 
 *   Semestre: 6to.
 
 **Materia:**
-*   Nombre: Diseño de aplicaciones web 
+*   Nombre: Diseño de aplicaciones web. 
 *   Maestro: Abraham Sosa.
 
 **Qué es Markdown:**    
