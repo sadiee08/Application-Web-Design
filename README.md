@@ -12,4 +12,4 @@ IV.	Look for a tutorial on the markup language “Markdown” in the README.md f
 *   Maestro: Abraham Sosa.
 
 **Qué es Markdown:**    
-Es un formato de texto que esta diseñado para convertir el texto normal a un formato de HTML u otros lenguajes.
+Es un formato de texto que esta diseñado para convertir el texto normal a un formato de HTML u otros lenguajes. Esto nos ayuda a poder escribir texto y explicar el codigo del repositorio.
